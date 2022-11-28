@@ -160,7 +160,7 @@ function generateMarkdown(data) {
   ${data.test_instructions}
 
   ## License type <a name="licenseType"></a>
-  ${data.license}
+  ${data.license} \\
   ${licenseDescription}
 
   ## Questions <a name="questions"></a>

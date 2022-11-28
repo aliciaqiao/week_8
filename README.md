@@ -28,7 +28,7 @@
   Read generated README.md by https://stackedit.io/app to check its correctness
 
   ## License type <a name="licenseType"></a>
-  Apache
+  Apache \
   Apache 2.0 License
 
   ## Questions <a name="questions"></a>
